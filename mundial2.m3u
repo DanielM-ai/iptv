@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DeportesGlobal" tvg-name="IPTV Deportes" tvg-logo="https://i.imgur.com/xY9zM22.png" group-title="Mundial", Feed Global de Deportes Colectivos
-https://iptv-org.github.io/iptv/categories/sports.m3u8
+#EXTINF:-1 tvg-id="RedBullTV" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/vR7N881.png" group-title="Deportes", Red Bull TV Live HD
+https://rbmn-live.akamaized.net/hls/live/590964/boxtv/master.m3u8
+
+#EXTINF:-1 tvg-id="DeportesAlterno" tvg-name="Fyre TV" tvg-logo="https://i.imgur.com/xY9zM22.png" group-title="Deportes", Arena Sports HD Feed
+https://fyr-tv-ignite.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LiveSports" tvg-name="Sports Stream" tvg-logo="https://i.imgur.com/xY9zM22.png" group-title="Deportes", Deportes 24/7 Respaldo
+https://amg01201-ftv-ftv-beinsports-ideal-beinsportsxtra-us-o8p9m.amagi.tv/playlist/amg01201-ftv-ftv-beinsports-ideal-beinsportsxtra-us-o8p9m/playlist.m3u8
